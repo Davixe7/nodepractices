@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/Davixe7/nodepractices#readme",
   "dependencies": {
+    "express": "^4.14.0",
     "express-formidable": "^1.0.0",
     "nodemon": "^1.11.0",
     "pug": "^2.0.0-beta6"
