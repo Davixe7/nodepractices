@@ -1,0 +1,28 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Practica del contenido del curso de nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Davixe7/nodepractices.git"
+  },
+  "keywords": [
+    "nodejs",
+    "codigofacilito"
+  ],
+  "author": "David",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Davixe7/nodepractices/issues"
+  },
+  "homepage": "https://github.com/Davixe7/nodepractices#readme",
+  "dependencies": {
+    "express-formidable": "^1.0.0",
+    "nodemon": "^1.11.0",
+    "pug": "^2.0.0-beta6"
+  }
+}
